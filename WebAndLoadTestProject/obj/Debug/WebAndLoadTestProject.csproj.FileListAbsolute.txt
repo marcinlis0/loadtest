@@ -1,0 +1,11 @@
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\GetAllMovies.webtest
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\WebAndLoadTestProject.dll
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\WebAndLoadTestProject.pdb
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.csprojResolveAssemblyReference.cache
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.dll
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\obj\Debug\WebAndLoadTestProject.pdb
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\GetAllMoviesTest.loadtest
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\LoadTest1.loadtest
+C:\Users\marcin\documents\visual studio 2015\Projects\LoadTest\WebAndLoadTestProject\bin\Debug\LoadTest2.loadtest
